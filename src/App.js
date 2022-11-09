@@ -39,6 +39,12 @@ function App() {
       <Search onSearchChange={handleOnSearchChange} />
       {currentWeather && <CurrentWeather data={currentWeather} />}
       {forecast && <Forecast data={forecast} />}
+      <p className="footer">
+        This app was created by{" "}
+        <a href="https://github.com/mortezatoushekhah/weather-react-app-v2">
+          Morteza Toushekhah
+        </a>{" "}
+      </p>
     </div>
   );
 }

@@ -1,9 +1,9 @@
 In this React project Weather App, i used the OpenWeatherMap API and GeoDB API with places autocomplete.
 the technologies used in this Weather App: REST APIs, React, Accordion npm package, select async paginate npm package, OpenWeather API, GeoDB Cities API
 
-Check demo:
+Check demo: https://react-weather-app-restapi.netlify.app/
 
-Source code:
+Source code: https://github.com/mortezatoushekhah/weather-react-app-v2
 
 This app was created by me(Morteza Toushekhah)
 
